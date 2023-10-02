@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá Pessoal! 👋😄
+:brazil:
+## Eu sou a Vitória, sou desenvolvedora BackEnd e este perfil foi criado para realizar projetos e estudos.
 
-<!--
-**vthifane/vthifane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 Para me encontrar basta clicar no link a seguir: 
 
-Here are some ideas to get you started:
+ ![image](https://github.com/vthifane/vthifane/assets/131800429/a24f71fc-0c64-4274-ac04-22f5aea10877)
+### Linkedin: https://www.linkedin.com/in/vitória-paixão-262304281/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://github.com/vthifane/vthifane/assets/131800429/88b25c3d-71c1-4abd-bf0b-f3029a5d890d) ![image](https://github.com/vthifane/vthifane/assets/131800429/7b651155-34f3-49ab-9eba-936252e0a141)
+
+### Competências:
+ API REST · TypeScript · PostgreSQL · Serviços web · Resolução de problemas · Lógica · Bancos de dados relacionais · Software · Desenvolvimento web · Interface de programação de aplicativos (API) · Linguagens de programação · npm (Gerenciador de Pacotes do Node) · Metodologias ageis · Git · GitHub · Desenvolvimento de back-end · Desenvolvimento de software · Node.js · JavaScript
+![image](https://github.com/vthifane/vthifane/assets/131800429/98be7140-e0ee-463e-81d7-ea6ee4ef7c1e)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vthifane)](https://github.com/vthifane)
+
+
