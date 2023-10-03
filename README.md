@@ -1,6 +1,7 @@
 # Olá Pessoal! 👋😄
 :brazil:
-## Eu sou a Vitória, sou desenvolvedora BackEnd e este perfil foi criado para realizar projetos e estudos.
+## Instrumentista apaixonada por música, adepta a práticas de meditação e atenção plena. Eu sou a Vitória, sou desenvolvedora BackEnd e este perfil foi criado para realizar projetos e estudos.
+
 
 ### 🔹 Para me encontrar basta clicar no link a seguir: 
 
