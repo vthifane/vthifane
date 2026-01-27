@@ -69,10 +69,6 @@ Este perfil é dedicado a projetos de estudo, prática e evolução constante �
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vthifane)](https://github.com/vthifane)
-
----
-
 ## 🚀 Projetos em destaque
 
 🔹 **Conversor de Moedas (Java)**  
