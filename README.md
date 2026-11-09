@@ -1,3 +1,4 @@
+</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=180&section=header&text=Vit%C3%B3ria%20Paix%C3%A3o&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20Back-End%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Cloud&descSize=16&descAlignY=60" alt="Banner Vitória Paixão" />
