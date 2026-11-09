@@ -116,3 +116,4 @@ API REST de um fórum, desenvolvida como entrega do desafio do programa **ONE** 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" alt="Rodapé" />
 
 </div>
+</div>
