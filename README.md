@@ -43,6 +43,7 @@ Este perfil reúne meus projetos de estudo, prática e evolução constante 🚀
 **Back-End**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JPA/Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![REST API](https://img.shields.io/badge/API_REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
@@ -51,6 +52,7 @@ Este perfil reúne meus projetos de estudo, prática e evolução constante 🚀
 **Bancos de dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Cloud, DevOps e ferramentas**
@@ -73,9 +75,13 @@ Solução desenvolvida em equipe ao longo de **seis semanas**, com atuação no 
 - **Tecnologias:** Java, Spring Boot, APIs REST, Oracle, Docker, JWT e Inteligência Artificial
 - **Repositório:** [vthifane/g9-br-techmind-team10](https://github.com/vthifane/g9-br-techmind-team10)
 
-### 💱 Conversor de Moedas (Java)
+### 💬 Challenge Forum Hub: Oracle Next Education (ONE) + Alura
 
-Aplicação que consome uma **API externa** para realizar a conversão de moedas em tempo real.
+API REST de um fórum, desenvolvida como entrega do desafio do programa **ONE** em parceria com a **Alura**. Permite **criar, listar, buscar, atualizar e deletar tópicos**, com **autenticação de usuários via JWT** protegendo os endpoints.
+
+- **Funcionalidades:** login com JWT, cadastro de usuários e cursos, CRUD de tópicos e listagem paginada
+- **Tecnologias:** Java, Spring Boot, Spring Security, JWT, Spring Data JPA, Flyway (migrations), MySQL e Bean Validation
+- **Testes de API:** Postman / Insomnia
 
 > Mais projetos em breve 👀
 
