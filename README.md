@@ -1,7 +1,10 @@
-</div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=180&section=header&text=Vit%C3%B3ria%20Paix%C3%A3o&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20Back-End%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Cloud&descSize=16&descAlignY=60" alt="Banner Vitória Paixão" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=120&section=header" alt="" />
+
+<h1>Vitória Paixão</h1>
+
+**Desenvolvedora Back-End · Java & Spring Boot · Cloud Computing**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-paixão-262304281/)
 [![Gmail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vthifanev@gmail.com)
@@ -89,8 +92,9 @@ Aplicação que consome uma **API externa** para realizar a conversão de moedas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vthifane&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vthifane&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+![Seguidores](https://img.shields.io/github/followers/vthifane?style=for-the-badge&logo=github&color=3b82f6)
+![Repositórios](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=0f172a&label=Reposit%C3%B3rios&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvthifane)
+![Último commit](https://img.shields.io/github/last-commit/vthifane/g9-br-techmind-team10?style=for-the-badge&logo=git&color=3b82f6&label=%C3%9Altimo%20commit%20TechMind)
 
 </div>
 
